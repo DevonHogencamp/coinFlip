@@ -18,4 +18,4 @@ function flip(flips) {
     }
 }
 
-flip(1000000);
+flip(10000);
